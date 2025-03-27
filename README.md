@@ -10,3 +10,5 @@ Reviva a diversão do Pedra, Papel, Tesoura neste app Flutter simples e viciante
 ✨ Feito com Flutter: Interface fluida e responsiva para uma experiência agradável.
 
 📸 Veja a Ação:
+
+Matriculas: 122100014 / 22117001
