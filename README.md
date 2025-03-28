@@ -1,4 +1,4 @@
-App Pedra, Papel, Tesoura: Desafio Clássico no Seu Bolso! 🕹️🖐️✌️
+App Pedra, Papel, Tesoura: Desafio Clássico no Seu Bolso! 🕹️🖐️
 Reviva a diversão do Pedra, Papel, Tesoura neste app Flutter simples e viciante!
 
 🎮 Escolha, Dispute, Vença: Toque para jogar contra o celular e veja quem leva a melhor.
