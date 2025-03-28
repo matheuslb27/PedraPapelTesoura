@@ -11,4 +11,6 @@ Reviva a diversão do Pedra, Papel, Tesoura neste app Flutter simples e viciante
 
 📸 Veja a Ação:
 
+![Image](https://github.com/user-attachments/assets/fdb06aae-b951-4840-b0ed-c0af0c3f47d2)
+
 Matriculas: 122100014 / 22117001
